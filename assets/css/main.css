@@ -1400,7 +1400,11 @@ input, select, textarea {
 	@media screen and (max-width: 736px) {
 
 		h1 {
-			font-size: 1.75em;
+			font-size: 28pt;
+		}
+
+		#contact h1{
+			margin-bottom: 10px;
 		}
 
 		h2 {
@@ -2299,6 +2303,14 @@ div.container p{
 
 	#experience-sizing {
 		margin: 1em 0 0;
+	}
+
+	#mich-img {
+		text-align: center;
+	}
+
+	.polaroid {
+		text-align: center;
 	}
 }
 
