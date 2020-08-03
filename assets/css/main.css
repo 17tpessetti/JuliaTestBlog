@@ -1397,15 +1397,16 @@ input, select, textarea {
 		color: #363636;
 	}
 
+	#contact h1{
+		margin-bottom: 10px;
+	}
+
 	@media screen and (max-width: 736px) {
 
 		h1 {
 			font-size: 28pt;
 		}
 
-		#contact h1{
-			margin-bottom: 10px;
-		}
 
 		h2 {
 			font-size: 1.375em;
